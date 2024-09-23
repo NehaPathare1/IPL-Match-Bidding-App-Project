@@ -147,7 +147,8 @@ ORDER BY
     total DESC;
 
 Conclusion
-This project successfully analyzes key metrics in the IPL bidding process, providing insights into bidder performance, match outcomes, and player contributions. The results can be used to improve strategies in future bidding and enhance team performance.
+This project successfully analyzes key metrics in the IPL bidding process, providing insights into bidder performance, match outcomes, and player contributions. 
+The results can be used to improve strategies in future bidding and enhance team performance.
 
 
 
